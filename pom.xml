@@ -112,7 +112,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
 					<image>
-						<name>aloksachan/${project.artifactId}:v2</name>
+						<name>aloksachan/${project.artifactId}:gatewayserver</name>
 					</image>
 					<excludes>
 						<exclude>

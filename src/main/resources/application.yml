@@ -48,4 +48,8 @@ info:
     name: "loans"
     description: "ABC Bank Loans Application"
     version: 1.0.0
-
+logging:
+  level:
+    com:
+      alok:
+        loans: DEBUG
