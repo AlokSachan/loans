@@ -112,7 +112,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
 					<image>
-						<name>aloksachan/${project.artifactId}:gatewayserver</name>
+						<name>aloksachan/${project.artifactId}:circuitbreaker</name>
 					</image>
 					<excludes>
 						<exclude>
